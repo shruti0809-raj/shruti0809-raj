@@ -49,7 +49,7 @@ The idea is to move from theoretical discussion to more concrete scenarios and e
 
 ## Background
 
-- Bachelor's degree in Computer Science  
+- Bachelor's degree in Computer Science and MBA in Marketing and Finance
 
 - Professional experience in market research with a focus on large scale data and behavioral patterns  
 
@@ -59,10 +59,14 @@ The idea is to move from theoretical discussion to more concrete scenarios and e
 
 ## Writing
 
-The AI Divide: A New Phase of Global Inequality  
-Published in ET Edge Insights  
+From Convergence to Divergence: How AI is reshaping Global Gaps  
+Published in Economic Times Edge Insights (a leading news media channel in India) - https://etedge-insights.com/technology/artificial-intelligence/from-convergence-to-divergence-how-ai-is-reshaping-global-gaps/
 
-Ongoing writing on technology, policy, and global systems  
+From Control to Sovereignty: The next phase of the AI Race
+Published in FINS (Forum for Integrated National Security) fortnightly e-Bulletin vol 6 issue 17 - https://www.linkedin.com/feed/update/urn:li:activity:7447861705466019840/
+
+
+Published in The Pioneer
 
 ## Links
 
