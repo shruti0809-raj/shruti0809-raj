@@ -1,6 +1,6 @@
 # Hi, I'm Shruti
 
-I currently work in market research and am pursuing a Master's in Human Computer Interaction from Georgia Tech University, Atlanta. My academic and personal work has increasingly moved toward AI systems, emerging technologies, and how they interact with society.
+I currently work in market research and am pursuing an online Master's in Human Computer Interaction from Georgia Tech University, Atlanta. My academic and personal work has increasingly moved toward AI systems, emerging technologies, and how they interact with society.
 
 My background is in computer science, and through my work in research and analytics, I have spent years understanding how people behave, make decisions, and respond to uncertainty. This has shaped how I approach AI today, not just as a technical system, but as something that directly interacts with human judgment and real world contexts.
 
