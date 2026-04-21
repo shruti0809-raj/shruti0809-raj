@@ -15,7 +15,6 @@ My current focus is on understanding how emerging technologies like AI, quantum 
 I am particularly interested in how these systems can be made more inclusive, safer, and better aligned with real human contexts.
 
 ## Selected Work
-
 ### BharatAI Index
 A concept for a safety benchmarking framework to evaluate how AI systems perform in data scarce and culturally diverse environments.
 
