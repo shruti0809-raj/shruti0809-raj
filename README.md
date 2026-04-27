@@ -6,7 +6,7 @@ My background spans computer science and an MBA, and through my work in research
 
 Alongside my professional work, I build AI-based applications, write about technology and policy, and study how systems behave in environments like the Global South, where data, infrastructure, and access are uneven.
 
-Over time, I aim to work at the intersection of technology, geopolitics, and policy—especially in the context of emerging technologies in India and other developing economies.
+Over time, I aim to work at the intersection of technology, geopolitics, and policy especially in the context of emerging technologies in India and other developing economies.
 
 ---
 
