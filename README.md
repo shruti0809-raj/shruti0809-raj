@@ -1,72 +1,124 @@
 # Hi, I'm Shruti
 
-I currently work in market research and am pursuing an online Master's in Human Computer Interaction from Georgia Tech University, Atlanta. My academic and personal work has increasingly moved toward AI systems, emerging technologies, and how they interact with society.
+I currently work in market research as an Associate Director and am pursuing an online Master's in Human-Computer Interaction from Georgia Tech, Atlanta.
 
-My background is in computer science, and through my work in research and analytics, I have spent years understanding how people behave, make decisions, and respond to uncertainty. This has shaped how I approach AI today, not just as a technical system, but as something that directly interacts with human judgment and real world contexts.
+My background spans computer science and an MBA, and through my work in research and analytics, I have spent years understanding how data translates into real-world decisions.
 
-Alongside my professional work, I build AI based applications, write about technology and policy, and study how systems behave in environments like the Global South where data, infrastructure, and access are uneven.
+Alongside my professional work, I build AI-based applications, write about technology and policy, and study how systems behave in environments like the Global South, where data, infrastructure, and access are uneven.
 
-Over time, I want to work more deeply at the intersection of technology, geopolitics, and policy, especially in the context of India and other developing economies.
+Over time, I aim to work at the intersection of technology, geopolitics, and policy—especially in the context of emerging technologies in India and other developing economies.
+
+---
 
 ## What I am exploring
 
-My current focus is on understanding how emerging technologies like AI, quantum computing, and digital infrastructure systems are shaping global power structures, access, and inequality.
+My current focus is on how emerging technologies such as AI, digital infrastructure, and compute ecosystems are shaping:
 
-I am particularly interested in how these systems can be made more inclusive, safer, and better aligned with real human contexts.
+- global power structures  
+- access and inequality  
+- technological sovereignty  
+
+I am particularly interested in how these systems can be made **safer, more inclusive, and aligned with real human contexts**.
+
+---
 
 ## Selected Work
+
 ### BharatAI Index
-A concept for a safety benchmarking framework to evaluate how AI systems perform in data scarce and culturally diverse environments.
+A safety benchmarking framework designed to evaluate how AI systems perform in data-scarce and culturally diverse environments.
 
-The focus is on identifying gaps such as language coverage, cultural bias, and dependency on external infrastructure, especially in developing regions.
+The framework focuses on identifying gaps such as language coverage, cultural bias, and dependency on external infrastructure—especially in developing regions. 
+Link - 
+---
 
-### Tarot AI App
-A production grade AI application built using Flutter and Firebase where users interact with AI generated symbolic outputs through tarot readings.
+### AI Fairness in Educational Systems
+A structured analysis of algorithmic fairness in predicting student outcomes using the Student Performance dataset.
 
-This project explores how people interpret AI generated content in personal and uncertain contexts, and how trust is formed with non deterministic systems.
+This project evaluates how protected attributes such as gender and age influence model outcomes using fairness metrics like Disparate Impact and Statistical Parity Difference.
 
-Live on Play Store  
-https://play.google.com/store/apps/details?id=com.taowalker.divineguidance  
+It also examines how fairness definitions interact with real-world systems, where outcome variables themselves may embed structural inequalities.
+
+**Key focus areas:**
+- Fairness vs accuracy trade-offs  
+- Bias in outcome definition (pass/fail vs high performance)  
+- Limitations of fairness metrics in real-world deployment  
+ 
+Link - 
+---
 
 ### AI Safety Experiments
-Ongoing small scale experiments to understand model behavior in practical scenarios.
+A set of controlled experiments designed to observe model behavior under different input conditions.
 
-This includes testing for cultural bias, probing responses in low context settings, and observing how safety guardrails behave under different inputs.
+This includes:
+- testing cultural bias across prompts  
+- probing responses in low-context environments  
+- evaluating how safety guardrails behave under adversarial or ambiguous inputs  
+
+Findings - 
+Link - 
+---
+
+### Tarot AI App
+A production-grade AI application built using Flutter, Firebase, and ChatGPT-assisted development.
+
+Users select cards through different deck spreads to receive AI-generated readings.
+
+Live on Play Store:  
+https://play.google.com/store/apps/details?id=com.taowalker.divineguidance  
+
+Link - 
+---
+
+### NFT Project
+A blockchain-based digital asset project exploring ownership, value exchange, and creative distribution in decentralized systems.
+
+The project focuses on how digital identity, scarcity, and provenance can be structured using NFTs, and how these systems intersect with broader questions of access, participation, and digital economies.
+
+Link - 
+---
 
 ### Autonomous Systems Dataset
-An early stage effort to structure ethical edge cases for autonomous decision making systems.
+A structured dataset of ethical edge cases for autonomous decision-making systems.
 
-The idea is to move from theoretical discussion to more concrete scenarios and explore how such decisions can be explained back to humans.
+The dataset translates abstract ethical dilemmas into concrete, testable scenarios, with the goal of enabling better evaluation, explainability, and alignment of autonomous and agentic systems.
+ 
+Link - 
+---
 
 ## Areas I think about
 
-- AI safety in real world environments  
+- AI safety in real-world environments  
 - Human interaction with probabilistic systems  
 - Data gaps and algorithmic exclusion  
 - Technological sovereignty  
 - Policy implications of emerging technologies  
-- Systems that are understandable and accountable  
+- Systems that are interpretable and accountable  
 
-## Background
-
-- Bachelor's degree in Computer Science and MBA in Marketing and Finance
-
-- Professional experience in market research with a focus on large scale data and behavioral patterns  
-
-- Currently pursuing MS in Human Computer Interaction from Georgia Tech University, Atlanta
-
-- Exploring future studies in international relations, policy, or diplomacy  
+---
 
 ## Writing
 
-From Convergence to Divergence: How AI is reshaping Global Gaps  
-Published in Economic Times Edge Insights (a leading news media channel in India) - https://etedge-insights.com/technology/artificial-intelligence/from-convergence-to-divergence-how-ai-is-reshaping-global-gaps/
+**From Convergence to Divergence: How AI is Reshaping Global Gaps**  
+Published in Economic Times Edge Insights  
+https://etedge-insights.com/technology/artificial-intelligence/from-convergence-to-divergence-how-ai-is-reshaping-global-gaps/
 
-From Control to Sovereignty: The next phase of the AI Race
-Published in FINS (Forum for Integrated National Security) fortnightly e-Bulletin vol 6 issue 17 - https://www.linkedin.com/feed/update/urn:li:activity:7447861705466019840/
+**From Control to Sovereignty: The Next Phase of the AI Race**  
+Published in FINS (Forum for Integrated National Security)  
+https://www.linkedin.com/feed/update/urn:li:activity:7447861705466019840/
 
+**Guardrails for the Frontier: How AI Safety is Actually Being Built**  
+Published in The Pioneer (Link)
 
-Published in The Pioneer
+---
+
+## Background
+
+- Bachelor's degree in Computer Science  
+- MBA in Marketing and Finance  
+- Associate Director in Market Research (Analytics & Insights)  
+- MS in Human-Computer Interaction (Georgia Tech, ongoing)  
+
+---
 
 ## Links
 
@@ -76,6 +128,8 @@ www.shrutirajvanshi.com
 LinkedIn  
 www.linkedin.com/in/shruti-rajvanshi-0809/  
 
+---
+
 ## Direction
 
-I am working toward building a deeper understanding of how technology and policy intersect, with the goal of contributing to systems that are inclusive, safe, and aligned with societal needs, especially in the context of emerging economies.
+I am working toward building a deeper understanding of how technology and policy intersect, with the goal of contributing to systems that are **inclusive, safe, and aligned with societal realities**—especially in emerging economies.
