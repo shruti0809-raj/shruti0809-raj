@@ -28,6 +28,7 @@ I am particularly interested in how these systems can be made **safer, more incl
 A safety benchmarking framework designed to evaluate how AI systems perform in data-scarce and culturally diverse environments.
 
 The framework focuses on identifying gaps such as language coverage, cultural bias, and dependency on external infrastructure—especially in developing regions. 
+
 Link - 
 ---
 
@@ -55,6 +56,7 @@ This includes:
 - evaluating how safety guardrails behave under adversarial or ambiguous inputs  
 
 Findings - 
+
 Link - 
 ---
 
