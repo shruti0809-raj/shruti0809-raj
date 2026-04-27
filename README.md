@@ -1,12 +1,6 @@
 # Hi, I'm Shruti
 
-I currently work in market research as an Associate Director and am pursuing an online Master's in Human-Computer Interaction from Georgia Tech, Atlanta.
-
-My background spans computer science and an MBA, and through my work in research and analytics, I have spent years understanding how data translates into real-world decisions.
-
-Alongside my professional work, I build AI-based applications, write about technology and policy, and study how systems behave in environments like the Global South, where data, infrastructure, and access are uneven.
-
-Over time, I aim to work at the intersection of technology, geopolitics, and policy especially in the context of emerging technologies in India and other developing economies.
+I’m an Associate Director in market research and an online MS-HCI student at Georgia Tech, exploring how AI and data systems influence real-world decisions, inequality, and global power structures.
 
 ---
 
@@ -109,7 +103,7 @@ Link - https://github.com/shruti0809-raj/Autonomous-Systems-Safety
 - Bachelor's degree in Computer Science  
 - MBA in Marketing and Finance  
 - Associate Director in Market Research (Analytics & Insights)  
-- MS in Human-Computer Interaction (Georgia Tech, ongoing)  
+- Online MS in Human-Computer Interaction (Georgia Tech, ongoing)  
 
 ---
 
