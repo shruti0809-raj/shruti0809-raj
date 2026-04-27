@@ -21,6 +21,20 @@ My current focus is on how emerging technologies such as AI, digital infrastruct
 I am particularly interested in how these systems can be made **safer, more inclusive, and aligned with real human contexts**.
 
 ---
+## Writing
+
+**From Convergence to Divergence: How AI is Reshaping Global Gaps**  
+Published in Economic Times Edge Insights  
+https://etedge-insights.com/technology/artificial-intelligence/from-convergence-to-divergence-how-ai-is-reshaping-global-gaps/
+
+**From Control to Sovereignty: The Next Phase of the AI Race**  
+Published in FINS (Forum for Integrated National Security)  
+https://www.linkedin.com/feed/update/urn:li:activity:7447861705466019840/
+
+**Guardrails for the Frontier: How AI Safety is Actually Being Built**  
+Published in The Pioneer (Link)
+
+---
 
 ## Selected Work
 
@@ -29,7 +43,7 @@ A safety benchmarking framework designed to evaluate how AI systems perform in d
 
 The framework focuses on identifying gaps such as language coverage, cultural bias, and dependency on external infrastructure especially in developing regions. 
 
-Link - 
+Link - https://github.com/shruti0809-raj/BharatAI-Index
 ---
 
 ### AI Fairness in Educational Systems
@@ -44,7 +58,7 @@ It also examines how fairness definitions interact with real-world systems, wher
 - Bias in outcome definition (pass/fail vs high performance)  
 - Limitations of fairness metrics in real-world deployment  
  
-Link - 
+Link - https://github.com/shruti0809-raj/AI-Fairness-in-Educational-Systems
 ---
 
 ### AI Safety Experiments
@@ -57,7 +71,7 @@ This includes:
 
 Findings - 
 
-Link - 
+Link - https://github.com/shruti0809-raj/AI-Safety-Experiments
 ---
 
 ### Tarot AI App
@@ -68,15 +82,15 @@ Users select cards through different deck spreads to receive AI-generated readin
 Live on Play Store:  
 https://play.google.com/store/apps/details?id=com.taowalker.divineguidance  
 
-Link - 
+Link - https://github.com/shruti0809-raj/Tarot_AI_App
 ---
 
-### Autonomous Systems Dataset
+### Autonomous Systems Safety
 A structured dataset of ethical edge cases for autonomous decision-making systems.
 
 The dataset translates abstract ethical dilemmas into concrete, testable scenarios, with the goal of enabling better evaluation, explainability, and alignment of autonomous and agentic systems.
  
-Link - 
+Link - https://github.com/shruti0809-raj/Autonomous-Systems-Safety
 ---
 
 ## Areas I think about
@@ -87,21 +101,6 @@ Link -
 - Technological sovereignty  
 - Policy implications of emerging technologies  
 - Systems that are interpretable and accountable  
-
----
-
-## Writing
-
-**From Convergence to Divergence: How AI is Reshaping Global Gaps**  
-Published in Economic Times Edge Insights  
-https://etedge-insights.com/technology/artificial-intelligence/from-convergence-to-divergence-how-ai-is-reshaping-global-gaps/
-
-**From Control to Sovereignty: The Next Phase of the AI Race**  
-Published in FINS (Forum for Integrated National Security)  
-https://www.linkedin.com/feed/update/urn:li:activity:7447861705466019840/
-
-**Guardrails for the Frontier: How AI Safety is Actually Being Built**  
-Published in The Pioneer (Link)
 
 ---
 
