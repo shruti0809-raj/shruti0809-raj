@@ -27,7 +27,7 @@ I am particularly interested in how these systems can be made **safer, more incl
 ### BharatAI Index
 A safety benchmarking framework designed to evaluate how AI systems perform in data-scarce and culturally diverse environments.
 
-The framework focuses on identifying gaps such as language coverage, cultural bias, and dependency on external infrastructure—especially in developing regions. 
+The framework focuses on identifying gaps such as language coverage, cultural bias, and dependency on external infrastructure especially in developing regions. 
 
 Link - 
 ---
@@ -67,14 +67,6 @@ Users select cards through different deck spreads to receive AI-generated readin
 
 Live on Play Store:  
 https://play.google.com/store/apps/details?id=com.taowalker.divineguidance  
-
-Link - 
----
-
-### NFT Project
-A blockchain-based digital asset project exploring ownership, value exchange, and creative distribution in decentralized systems.
-
-The project focuses on how digital identity, scarcity, and provenance can be structured using NFTs, and how these systems intersect with broader questions of access, participation, and digital economies.
 
 Link - 
 ---
@@ -134,4 +126,4 @@ www.linkedin.com/in/shruti-rajvanshi-0809/
 
 ## Direction
 
-I am working toward building a deeper understanding of how technology and policy intersect, with the goal of contributing to systems that are **inclusive, safe, and aligned with societal realities**—especially in emerging economies.
+I am working toward building a deeper understanding of how technology and policy intersect, with the goal of contributing to systems that are **inclusive, safe, and aligned with societal realities** especially in emerging economies.
