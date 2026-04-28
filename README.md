@@ -17,7 +17,6 @@ My current focus is on how emerging technologies such as AI, digital infrastruct
 - global power structures  
 - access and inequality  
 - technological sovereignty
-- AI Ethics and safety
 
 I am particularly interested in how these systems can be made **safer, more inclusive, and aligned with real human contexts**.
 
