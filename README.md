@@ -4,7 +4,7 @@ I’m an Associate Director in market research and currently pursuing an online 
 
 I study and build around AI and emerging technologies, focusing on how these systems influence real-world decisions, shape economies, and redistribute power across societies.
 
-My work is driven by an interest in the intersection of technology and policy—particularly how systems can be made **safer, more inclusive, and aligned with real-world contexts**, especially in emerging economies like India.
+My work is driven by an interest in the intersection of technology and policy particularly how systems can be made **safer, more inclusive, and aligned with real-world contexts**, especially in emerging economies like India.
 
 I believe India has significant potential to contribute to the future of AI, given its talent base and evolving policy ecosystem, and I aim to contribute toward maximizing the benefits of these technologies while minimizing systemic risks.
 
