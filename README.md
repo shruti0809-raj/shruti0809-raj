@@ -1,6 +1,12 @@
 # Hi, I'm Shruti
 
-I’m an Associate Director in market research and an online MS-HCI student at Georgia Tech, exploring how AI and data systems influence real-world decisions, inequality, and global power structures.
+I’m an Associate Director in market research and currently pursuing an online MS in Human-Computer Interaction at Georgia Tech, Atlanta.
+
+I study and build around AI and emerging technologies, focusing on how these systems influence real-world decisions, shape economies, and redistribute power across societies.
+
+My work is driven by an interest in the intersection of technology and policy—particularly how systems can be made **safer, more inclusive, and aligned with real-world contexts**, especially in emerging economies like India.
+
+I believe India has significant potential to contribute to the future of AI, given its talent base and evolving policy ecosystem, and I aim to contribute toward maximizing the benefits of these technologies while minimizing systemic risks.
 
 ---
 
@@ -10,7 +16,8 @@ My current focus is on how emerging technologies such as AI, digital infrastruct
 
 - global power structures  
 - access and inequality  
-- technological sovereignty  
+- technological sovereignty
+- AI Ethics and safety
 
 I am particularly interested in how these systems can be made **safer, more inclusive, and aligned with real human contexts**.
 
@@ -116,7 +123,3 @@ LinkedIn
 www.linkedin.com/in/shruti-rajvanshi-0809/  
 
 ---
-
-## Direction
-
-I am working toward building a deeper understanding of how technology and policy intersect, with the goal of contributing to systems that are **inclusive, safe, and aligned with societal realities** especially in emerging economies.
