@@ -32,7 +32,7 @@ Published in FINS (Forum for Integrated National Security)
 https://www.linkedin.com/feed/update/urn:li:activity:7447861705466019840/
 
 **Guardrails for the Frontier: How AI Safety is Actually Being Built**  
-Published in The Pioneer (Link)
+Published in The Blunt Times (https://theblunttimes.in/guardrails-for-the-frontier-how-ai-safety-is-actually-being-built/63280/)
 
 ---
 
