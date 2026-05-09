@@ -33,7 +33,10 @@ https://www.linkedin.com/feed/update/urn:li:activity:7447861705466019840/
 
 **Guardrails for the Frontier: How AI Safety is Actually Being Built**  
 Published in The Blunt Times (https://theblunttimes.in/guardrails-for-the-frontier-how-ai-safety-is-actually-being-built/63280/)
+and CIO Tech Outlook (https://www.ciotechoutlook.com/news/guardrails-for-the-frontier-how-ai-safety-is-actually-being-built-nid-14609-cid-64.html)
 
+**Are We Raising Children Inside Social Media Algorithms?**  
+Published in  The Explore Journal ()
 ---
 
 ## Selected Work
